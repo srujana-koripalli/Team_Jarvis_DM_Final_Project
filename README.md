@@ -2,10 +2,10 @@
 Team_Jarvis_DM_Final_Project
 
 
-# Business Understanding
+## Business Understanding
 * The primary business goal In our project is to help the investors or buyers, whether to invest in a housing property at san jose city or not depending up on various features to be considered such as, Zestimate Price, Crime Rate and school rating.
 
-# Data Understanding
+## Data Understanding
 * To analyses the properties of the city , we initially added Zillow property List and after that we added below Latent variables
   * Crime index
     * Violent crime
@@ -16,7 +16,7 @@ Team_Jarvis_DM_Final_Project
     * Free lunch
     * Total number of schools in the zipcode
 
-# Data Preperation
+## Data Preperation
 * Selected below scrapped data
   * Zillow 
   * School rating 
