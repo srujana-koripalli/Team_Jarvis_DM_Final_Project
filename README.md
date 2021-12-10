@@ -1,7 +1,7 @@
 # Team_Jarvis_DM_Final_Project
 Team_Jarvis_DM_Final_Project
 
-
+### Video link : https://drive.google.com/file/d/1QlCjfuYqN97do6z0WhDfO_OwYm0sl49A/view?usp=sharing
 ## Business Understanding
 * The primary business goal In our project is to help the investors or buyers, whether to invest in a housing property at san jose city or not depending up on various features to be considered such as, Zestimate Price, Crime Rate and school rating.
 
