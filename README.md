@@ -38,7 +38,17 @@ Team_Jarvis_DM_Final_Project
   * Random forest classifier
   * Adaboost classfier
 
-## 
+## EVALUATION
+* Added Latent Variables as the features and see how prediction results change. Use appropriate metrics for measuring models and compare them in a table
+
+## DEPLOYEMENT
+* Front end
+  * React 
+* Back end
+  * Flask api
+
+
+
 
 
 
