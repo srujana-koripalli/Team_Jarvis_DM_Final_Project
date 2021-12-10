@@ -30,5 +30,16 @@ Team_Jarvis_DM_Final_Project
 * Integrate data	
   * Integrated with school rating and crime rating scrapped data
 
+## Modelling
+* build models and refine data narrative
+* Found Golden cluster
+* Applied various classifiers and regressors algorithms Classifier:
+  * KNN
+  * Random forest classifier
+  * Adaboost classfier
+
+## 
+
+
 
 
